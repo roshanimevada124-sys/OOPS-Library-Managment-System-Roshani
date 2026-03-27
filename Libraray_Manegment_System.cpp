@@ -203,7 +203,7 @@ int main() {
             case 3: lib.searchBook(); break;
             case 4: lib.removeBook(); break;
             case 5: lib.issueBook(); break;
-            case 6: lib.returnBook(); break;5
+            case 6: lib.returnBook(); break;
             
             case 7: lib.viewIssuedBooks(); break;
             case 8: return 0;
