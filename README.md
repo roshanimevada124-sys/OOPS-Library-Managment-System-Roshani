@@ -64,6 +64,8 @@ It improves understanding of concepts like inheritance, polymorphism, and data h
 
 ##  Author
 - Roshani
+- Prachi
+- -Margi
 
 ---
 
